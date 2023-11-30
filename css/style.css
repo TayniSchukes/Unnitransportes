@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: pink;
+}
+li {
+    display: inline-block;
+    padding: 5%;
+    list-style: none;
+    border: solid 1px #000;
+    border-radius: 20px;
+    background-color: #fff;
+}
+a {
+    text-decoration: none;
+    color: #000;
+    font-size: 25px;
+}
